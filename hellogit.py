@@ -10,3 +10,6 @@ print('Editado :)')
 print('New Hello Git with changes! 🕹')
 
 print('Elimino lo ingresado el Editado jun/05/2023')
+
+print('\nhellogit - github')
+print('Ahora en github sep-04-2023')
